@@ -95,12 +95,12 @@ if( isset($_POST['btLogin']) )
 Keterangan :
 Admin : identitas = admin password = admin<br />
 Dosen : identitas = 930255 password = 12345<br />
-Mahasiswa : identitas = 150010104 password = 111111<br />
-Mahasiswa : identitas = 150010110 password = 121212<br />
-Mahasiswa : identitas = 150010025 password = 131313<br />
-I Putu Adi Darma Suyasa (150010110)<br/>
-Firman Budi wicaksono (150010104)<br/>
-M. Maftahul Huda (150010025)<br/>
+Mahasiswa : identitas = 1500 password = 111111<br />
+Mahasiswa : identitas = 1500 password = 121212<br />
+Mahasiswa : identitas = 1500 password = 131313<br />
+User_2 (1500)<br/>
+User_4 (1500)<br/>
+User_3 (1500)<br/>
 </p>
 </center>
 </body>

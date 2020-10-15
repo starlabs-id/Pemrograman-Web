@@ -57,9 +57,9 @@ CREATE TABLE `dosen` (
 --
 
 INSERT INTO `dosen` (`nip`, `nama`, `alamat`, `no_hp`, `password`) VALUES
-(121315, 'Adi Purwantara', 'Jl.Raya Puputan No.86', '082565146516', '56789'),
-(152415, 'Muhammad Maftahul Huda', 'Jl.Raya', '082247804940', '111111'),
-(930255, 'I Gede Suardika', 'Jl.Ahmad Yani Utara', '082254465484', '12345');
+(121315, 'User_1', 'Jl.Raya Puputan No.86', '08256514688', '56789'),
+(152415, 'User_2', 'Jl.Raya', '08224780488', '111111'),
+(930255, 'User_3', 'Jl.Ahmad Yani Utara', '082254465888', '12345');
 
 -- --------------------------------------------------------
 
@@ -128,9 +128,9 @@ CREATE TABLE `mhs` (
 --
 
 INSERT INTO `mhs` (`nim`, `nama`, `alamat`, `tgl_lahir`, `no_hp`, `password`) VALUES
-(150010025, 'Muhammad Maftahul Huda', 'Jl.Gunung Raung', '1991-09-04', '082247804980', '131313'),
-(150010104, 'Firman Budi Wicaksono', 'Br.Kangin, Sempidi', '1996-04-12', '082247804992', '111111'),
-(150010110, 'Adi Dharma Suyasa', 'Jl.Raya Gatsu Tengah', '1997-06-08', '082222111455', '121212');
+(15001, 'user_1', 'Jl.Gunung Raung', '1993-09-04', '082247804777', '131313'),
+(15003, 'user_2', 'Br.Kangin, Sempidi', '1995-04-12', '082247804777', '111111'),
+(15002, 'user_3', 'Jl.Raya Gatsu Tengah', '1990-06-08', '082222111777', '121212');
 
 --
 -- Indexes for dumped tables
